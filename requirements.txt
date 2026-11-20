@@ -2,5 +2,5 @@ mcp>=2.0
 httpx>=0.27
 pypdf>=4.0
 python-dotenv>=1.0
-anydoc
+firecrawl-anydoc>=0.2.4,<1.0
 pytest>=8.0
